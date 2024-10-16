@@ -1,0 +1,2 @@
+# Efficient-Control-System-for-Washing-Machines-Using-Embedded-C-with-MPLAB-and-PICSIM-Simulation
+This project features a washing machine control system developed in Embedded-C using MPLAB and simulated with PICSIM. The program optimizes operations, improving energy efficiency and performance. Efficient algorithms ensure reliable cycle management, enhancing the overall functionality and user experience.
